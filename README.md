@@ -10,6 +10,12 @@ A clean, responsive React frontend application for Tasks CRUD management, built 
   - Update tasks in a prefilled modal.
   - Delete tasks with confirmation dialog.
   - **One-Click Mark as Complete**: Instantly mark tasks as completed or pending.
+- **Dedicated NEWS Tab (Open API Powered)**:
+  - Top navigation tab switcher (**Tasks** and **NEWS** with live status indicator).
+  - Curated news categories (Top Headlines, Technology, Business, Science, Health, Entertainment).
+  - Search bar to filter headlines in real time.
+  - Featured Breaking Story hero card with image, source, date, and external link.
+  - Responsive multi-column news cards grid with thumbnail zoom, source tags, and relative timestamps.
 - **Task Summary & Analytics Dashboard**:
   - Real-time count of Total Tasks, Completed, In Progress, and Pending tasks.
   - Dynamic completion rate progress bar.
